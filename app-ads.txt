@@ -1,7 +1,5 @@
 OWNERDOMAIN=yasinbyrum.github.io
 
-google.com, pub-4052811546306670, DIRECT, f08c47fec0942fa0
-
 unity.com, 156215060, DIRECT, 96cabb5fbdde37a7
 bluexad.ai, 1996418805747683328, RESELLER
 conversantmedia.com, 41024, RESELLER, 03113cd04947736d
